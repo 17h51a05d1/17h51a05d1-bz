@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/17h51a05d1/17h51a05d1-bz/issues"
   },
-  "homepage": "https://github.com/17h51a05d1/17h51a05d1-bz#readme"
+  "homepage": "https://github.com/17h51a05d1/17h51a05d1-bz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
