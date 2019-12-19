@@ -1,0 +1,19 @@
+{
+  "name": "17h51a05d1-bz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17h51a05d1/17h51a05d1-bz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17h51a05d1/17h51a05d1-bz/issues"
+  },
+  "homepage": "https://github.com/17h51a05d1/17h51a05d1-bz#readme"
+}
